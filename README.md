@@ -1,3 +1,3 @@
 decentralised voting app on polygon amoy testnet:'''
 
-![screenshot](signup.PNG)
+![screenshot](dashdapp.PNG)
